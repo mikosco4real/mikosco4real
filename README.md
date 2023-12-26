@@ -1,12 +1,10 @@
 # Hello, I'm Michael Okolo 👋
 
-![Banner](https://thumbs.dreamstime.com/z/children-coding-school-education-computer-programming-banner-poster-purple-color-children-coding-school-education-computer-274370822.jpg)
-
-<img src="https://thumbs.dreamstime.com/z/children-coding-school-education-computer-programming-banner-poster-purple-color-children-coding-school-education-computer-274370822.jpg" width="1200" height="300">
+![Banner](cool_software_engineer.png)
 
 ## About Me 📚
 
-I'm a passionate and dedicated software engineer with a rich background in information management technology. I obtained my B.Tech from the Federal University of Technology, Owerri, Nigeria, in 2016 and furthered my studies in Advanced Cloud Computing at Torrens University Australia.
+I'm a passionate and dedicated software engineer with a rich background in cloud and distributed computing. I obtained my B.Tech from the Federal University of Technology, Owerri, Nigeria, in 2016 and furthered my studies in Software Engineering at Torrens University Australia.
 
 ### Education 🎓
 
@@ -28,8 +26,8 @@ I'm on the lookout for Rust-based open-source projects where I can contribute an
 
 ### Let's Connect and Build Together! 🚀
 
-- **GitHub:** [YourGitHub](YourGitHubLink)
-- **LinkedIn:** [YourLinkedIn](YourLinkedInLink)
-- **Twitter:** [YourTwitter](YourTwitterLink)
+- **GitHub:** [MyGitHub](https://github.com/mikosco4real)
+- **LinkedIn:** [MyLinkedIn](https://www.linkedin.com/in/michael-okolo-b3b2bbaa/)
+- **Twitter:** [MyTwitter](https://twitter.com/lord_zedd1)
 
-![Footer](https://via.placeholder.com/1200x100)
+![Footer](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)
