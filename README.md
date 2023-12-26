@@ -18,7 +18,7 @@ From a young age, I've been fascinated by the potential of software to change li
 ### Skills and Proficiencies 🛠️
 
 - **Languages:** Python, Go, Rust (Currently focusing on Rust)
-- **Interests:** Advanced cloud computing, Open-source contribution, Software architecture
+- **Interests:** Software engineering, Open-source contribution, Software architecture
 
 ## Contributions and Community 🌍
 
