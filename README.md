@@ -9,7 +9,7 @@ I'm a passionate and dedicated software engineer with a rich background in cloud
 ### Education 🎓
 
 - B.Tech in Information Management Technology, Federal University of Technology, Owerri, Nigeria (2016)
-- Masters of Software Engineering (Advanced Cloud Computing), Torrens University Australia
+- Masters of Software Engineering (Advanced Cloud Computing), Torrens University Australia (2022)
 
 ## My Journey as a Developer 💻
 
